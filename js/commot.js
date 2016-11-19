@@ -8,3 +8,4 @@ function Deduktmultiply(a, b) {
 }
 
 multiply(343, 434);
+

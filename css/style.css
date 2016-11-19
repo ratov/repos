@@ -9,6 +9,7 @@ header {
 	height: auto;
 }
 
-*{
-	background-color: tomato;
+p {
+	font-size: 20px;
+	color: gold;
 }
