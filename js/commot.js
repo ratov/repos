@@ -3,7 +3,7 @@ branch TESTgi
 var d = document.getElementById('test');
 console.log(d);
 
-function multiply(a, b) {
+function Deduktmultiply(a, b) {
 	return a * b;
 }
 
